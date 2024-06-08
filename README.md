@@ -23,7 +23,7 @@
 תיקיית [Command-Map](https://github.com/Nachmen-Kurtz/Learn-Linux/tree/main/Bash/Command-Map) לשם אני מעלה סיכומים גרפיים על הפקודות של באש. הקבצים מסודרים לפי נושא, והם מקבילים בדרך כלל למאמרים שבתיקיית באש.
 
 ##### תיקיית Scripts
-תיקיית [Scripts](https://github.com/Nachmen-Kurtz/Learn-Linux/tree/main/Bash/Scripts) מיועדת לסקריפטים פשוטים בשפת באש. אני מקווה להעלות לכאן סקריפטים עם קבצי תיעוד והסבר מפורט.
+תיקיית [Shell-Script](https://github.com/Nachmen-Kurtz/Learn-Linux/tree/main/Bash/Shell-Script) מיועדת לסקריפטים פשוטים בשפת באש. אני מקווה להעלות לכאן סקריפטים עם קבצי תיעוד והסבר מפורט.
 
 ---
 
