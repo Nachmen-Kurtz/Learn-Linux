@@ -25,6 +25,9 @@
 ##### תיקיית Scripts
 תיקיית [Scripts](https://github.com/Nachmen-Kurtz/Learn-Linux/tree/main/Shell/Scripts) מיועדת לסקריפטים פשוטים בשפת באש. אני מקווה להעלות לכאן סקריפטים עם קבצי תיעוד והסבר מפורט.
 
+#### תיקיית Posts
+תיקיית [Posts](https://github.com/Nachmen-Kurtz/Learn-Linux/tree/main/posts) היא וריאציה החדשה של ה[בלוג **האתגרים של מתחיל בלינוקס**](https://linuxuserstip.blogspot.com) לאחר שנשבר לי מהפורמט המיושן והגס של כתיבת פוסטים שם, אז העברתי את מיקום הפוסטים החדשים לכאן.
+
 ---
 
 ## הוסיפו את המאגר לעדכוני הפיד שלכם
