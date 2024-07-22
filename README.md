@@ -26,7 +26,10 @@
 תיקיית [Scripts](https://github.com/Nachmen-Kurtz/Learn-Linux/tree/main/Scripts) מיועדת לסקריפטים פשוטים בשפת באש. אני מקווה להעלות לכאן סקריפטים עם קבצי תיעוד והסבר מפורט.
 
 #### תיקיית Posts
-תיקיית [Posts](https://github.com/Nachmen-Kurtz/Learn-Linux/tree/main/Posts) היא וריאציה החדשה של ה[בלוג **האתגרים של מתחיל בלינוקס**](https://linuxuserstip.blogspot.com) לאחר שנשבר לי מהפורמט המיושן והגס של כתיבת פוסטים שם, אז העברתי את מיקום הפוסטים החדשים לכאן.
+תיקיית [Posts](https://github.com/Nachmen-Kurtz/Learn-Linux/tree/main/Posts) היא וריאציה החדשה של ה[בלוג **האתגרים של מתחיל בלינוקס**](https://linuxuserstip.blogspot.com) כאן אפרסם פוסטים בנושאים כללים בלינוקס.
+
+#### תיקיית Terminal-Upgrade
+תיקיית [Terminal-Upgrade](https://github.com/Nachmen-Kurtz/Learn-Linux/tree/main/Terminal-Upgrade) מיועדת לפוסטים המתמקדים בטיפים ורעיונות לשיפור חווית השימוש במנשק שורת הפקודה.
 
 ---
 
